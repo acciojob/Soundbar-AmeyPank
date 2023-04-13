@@ -1,4 +1,4 @@
-/*  your css code here. If applicable */
+ /* your css code here. If applicable
 body{
 	background-color:plum;
 }
@@ -22,4 +22,19 @@ body{
 
 		.stop {
 			background-color: #f44336;
+		} */
+
+		#buttons{
+			width: 100%;
+			height: 150px;
+			background-color: purple;
+			
 		}
+		
+		#bt-n{
+			font-size: 15.6px;
+			margin-top: 50px;
+			padding: 15px;
+			margin-left: 30px ;
+		}
+		
